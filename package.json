@@ -1,0 +1,26 @@
+{
+  "name": "fatri-vue-cli",
+  "version": "1.0.0",
+  "description": "Fatri-vue-cli is a scaffold for initiating a new project from a given template.",
+  "repository": {},
+  "bin": {
+    "scion": "bin/scion"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fatri",
+    "vue",
+    "fatri-vue-cli"
+  ],
+  "author": "heliuxi",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^5.1.0"
+  }
+}
